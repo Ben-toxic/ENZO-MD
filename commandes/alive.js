@@ -46,7 +46,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *ENZO-MD-WABOT*`
+ *DR BEN BOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -91,7 +91,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *ENZO MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *DR BEN BOT* is alive just like you gee. ')
 
 }
     });
